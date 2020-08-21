@@ -1,7 +1,7 @@
 <template>
  <div id="app">
  
-    <HelloWorld msg="bobo" />
+    <HelloWorld msg="ประเทศไทย" />
     <hr>
     <div class="row">
       <div class="col-6">
